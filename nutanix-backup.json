@@ -1,0 +1,14 @@
+{
+  "vms": [
+    {
+        "name": "",
+        "uuid": "",
+        "period": "",
+        "keep": 2
+    }
+  ],
+  "config": {
+    "download_path": "< put here the path >",
+    "authorization_key": "< put here the authorization_key >"
+  }
+}
