@@ -1,5 +1,5 @@
 ## Description
-This script helps you to manage OVAs on Nutanix AHV. This script invokes API of Prism Central to make OVAs of VM and get them to put in a remote folder.
+This script performs a remote backup of a VM using OVA. It does so by leveraging Prism Central's APIs for building them and uploading them to a remote folder.
 
 ## How To Use
 
